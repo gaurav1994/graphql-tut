@@ -6,4 +6,4 @@ const Query = {
      },
      students : () => db.students.list()
 }
-module.exports = {Query}
+module.exports = {Query} 
